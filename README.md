@@ -1,6 +1,6 @@
-## Primer Desafio Practico DPS
+# Primer Desafio Practico DPS
 
-#Ejercicio 1:  
+## Ejercicio 1:  
 Elaborar una aplicación web para lista de compras, la cual debe de presentar un diseño similar 
 al presentado en la Figura 1. Para la aplicación web debe de considerar lo siguiente: 
 
@@ -34,7 +34,7 @@ precio un botón.
 
 
 
-# Ejercicio 2:  
+## Ejercicio 2:  
 Elaborar una aplicación móvil para una tienda de cafés, la cual debe de presentar un diseño 
 similar al presentado en la Figura 2. Para la aplicación móvil debe de considerar lo siguiente: 
 
